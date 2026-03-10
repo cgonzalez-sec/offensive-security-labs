@@ -1,15 +1,28 @@
-# Pentesting Portfolio
+# Offensive Security Labs
 
-This repository documents my hands-on practice in offensive security,
-focused on web application pentesting and basic red team techniques.
+This repository documents my early cybersecurity training in offensive security and web application pentesting.
 
-All content is based on intentionally vulnerable labs and authorized environments.
+The goal of these exercises was to understand how common vulnerabilities work and how attackers interact with insecure systems.
 
-## Contents
-- Methodology
-- Web application labs (DVWA, OWASP Juice Shop)
-- Network and system exploitation labs
-- Notes and automation scripts
+All labs were performed in intentionally vulnerable and authorized environments.
 
-## Disclaimer
+---
+
+# Contents
+
+• Web application labs (DVWA, OWASP Juice Shop)  
+• Basic vulnerability exploitation exercises  
+• Pentesting methodology notes  
+• Automation and helper scripts  
+
+---
+
+# Learning Value
+
+Studying offensive techniques helped me better understand how attacks work, which is useful for developing defensive and Blue Team skills.
+
+---
+
+# Disclaimer
+
 All activities documented here are performed in legal, controlled environments for educational purposes only.
